@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "manufacture": "Hard Drives by Seagate",
+
+      "price": 62.99,
+      "rating": 4.5,
+      "image": "image1.png",
+
+      "promos": [
+        "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive. Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "TP-Link AC750 WiFi Extender (RE230), Covers Up to 1200 Sq.ft and 20 Devices, Dual Band WiFi Range Extender",
+      "manufacture": "TP-Link",
+
+      "price": 26.99,
+      "rating": 4,
+      "image": "image2.png",
+
+      "promos": [
+        " Universal Compatibility: The RE230 range extender is compatible with all Wi-Fi-enabled devices and routers or access points. All Wi-Fi extenders are designed to increase or improve Wi-Fi coverage, not to directly increase speed. In some cases improving signal reliability can affect overall throughput"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "2020 Apple MacBook Air Laptop: Apple M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage",
+      "manufacture": "Apple",
+
+      "price": 999,
+      "rating": 4,
+      "image": "image3.png",
+
+      "promos": [
+        "Why Mac – Easy to learn. Easy to set up. Astoundingly powerful. Intuitive. Packed with apps to use right out of the box. Mac is designed to let you work, play, and create like never before."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Acer Aspire 5 A515-46-R14K Slim Laptop | 15.6' Full HD IPS | AMD Ryzen 3 3350U Quad-Core Mobile Processor ",
+      "manufacture": "Richard Powers",
+
+      "price": 368,
+      "rating": 4,
+      "image": "image4.png",
+
+      "promos": [
+        "Powerful Productivity: AMD Ryzen 3 3350U delivers desktop-class performance and amazing battery life in a slim notebook. With Precision Boost, get up to 3.5GHz for your high-demand applications"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Roku Express | HD Streaming Media Player with High Speed HDMI Cable and Simple Remote",
+      "manufacture": "Roku",
+
+      "price": 29.99,
+      "rating": 4.5,
+      "image": "image5.png",
+
+      "promos": [
+        "        Watch what you love: Start streaming with a massive selection of free, live, and premium TV, including Roku Originals and 200+ live TV channels for free on The Roku Channel. Quick and easy setup: It’s easy to get started with everything you need included in the box, including a High Speed HDMI Cable—just plug it into your TV and connect to the internet"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Logitech MK345 Wireless Combo Full-Sized Keyboard ",
+      "manufacture": "Logitech",
+
+      "price": 34.99,
+      "rating": 5,
+      "image": "image6.png",
+
+      "promos": [
+        "Full-size keyboard layout: Comfortable, quiet typing on a familiar keyboard layout with generous palm rest, spill-resistant design and easy-access media keys like mute, volume and play"
+      ]
+    }
+  ]
+}
